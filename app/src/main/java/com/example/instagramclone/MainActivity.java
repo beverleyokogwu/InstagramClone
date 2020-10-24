@@ -155,7 +155,7 @@ public class MainActivity extends AppCompatActivity {
                 Log.i(TAG, "Successful save!");
                 etDescription.setText("");
                 ivPostImage.setImageResource(0);
-                
+
             }
         });
     }
