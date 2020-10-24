@@ -41,5 +41,7 @@ public class LoginActivity extends AppCompatActivity {
         Log.i(TAG, "Attempting to login user "+ username);
         //Todo: Navigate to the main activity if the user has signed in properly
 
+        
+
     }
 }
