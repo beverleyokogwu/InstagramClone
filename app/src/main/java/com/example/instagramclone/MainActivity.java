@@ -30,6 +30,7 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
+    //variables
     public static final String TAG = "MainActivity";
     public static final int CAPTURE_IMAGE_ACTIVITY_REQUEST_CODE = 42;
 
